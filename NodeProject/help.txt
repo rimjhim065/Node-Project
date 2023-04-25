@@ -1,0 +1,37 @@
+{
+    "name": "Ravi Kumar",
+    "department": "ME",
+    "age": 42,
+    "address": {
+        "street": "Nanuta",
+        "city": "Saharanpur",
+        "state": "UP",
+        "pin": 565784
+    }
+}
+
+{
+    "name": "Anmol Verma",
+    "department": "CSE",
+    "age": 28,
+    "address": {
+        "street": "frankfurt",
+        "city": "Patiala",
+        "state": "Punjab",
+        "pin": 467833
+    }
+}    
+
+{
+    "name": "Khushi",
+    "department": "BBA",
+    "age": 34,
+    "address": {
+        "street": "Chappal",
+        "city": "Melbourne",
+        "state": "Victoria",
+        "pin": 485620
+    }
+}
+
+
